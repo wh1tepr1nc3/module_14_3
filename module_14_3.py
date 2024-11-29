@@ -10,7 +10,7 @@ from aiogram.types.input_file import InputFile
 # from PIL import image
 import asyncio
 
-api = '7214348790:AAHLRzW5NENdHcnLY9znrVIDC--6bsuUrJo'
+api = ''
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
